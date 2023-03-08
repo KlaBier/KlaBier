@@ -8,7 +8,8 @@ From time to time I work as an author for various publications or for other jour
 
 ### 📢 Let's get in touch
 
-<a href="https://twitter.com/klabiers" target="_blank"><img src="https://img.shields.io/twitter/follow/klabiers?label=Follow" alt="Twitter"></a>
+<!--<a href="https://twitter.com/klabiers" target="_blank"><img src="https://img.shields.io/twitter/follow/klabiers?label=Follow" alt="Twitter"></a>
+-->
 <a href="https://www.linkedin.com/in/klaus-bierschenk-452a40153" target="_blank"><img src="https://img.shields.io/badge/Klaus.B-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:klaus@NothingButCloud.net" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%93%AC-Email-darkgreen" alt="Twitter"></a>
 
