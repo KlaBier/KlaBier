@@ -4,7 +4,7 @@ I am working as an Technology Consultant at CGI in Germany focused on Identity- 
 
 From time to time I work as an author for various publications or for other journalistic activities. Check my private tech blog (hosted here on GitHub Pages) for more details: https://nothingbutcloud.net
 
-💬 You are welcome to ask me about Active Directory (AAD or On-Premises) or Zero Trust and Hybrid Setup Scenarios (e.g. synchronization)
+💬 You are welcome to ask me about Active Directory (MS Entra ID or On-Premises) or Zero Trust and Hybrid Setup Scenarios (e.g. synchronization)
 
 ### 📢 Let's get in touch
 
