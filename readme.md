@@ -4,7 +4,7 @@ I’m a Microsoft Security MVP and currently working as a Technology Consultant 
 
 From time to time, I also contribute as an author to various publications and engage in other journalistic activities. You can find more details on my private tech blog (hosted here on GitHub Pages): nothingbutcloud.net
 
-💬 Feel free to reach out if you have questions about Active Directory (Microsoft Entra ID or on-premises), Zero Trust, or hybrid setup scenarios (e.g., synchronization).
+Feel free to reach out if you have questions about Active Directory (Microsoft Entra ID or on-premises), Zero Trust, or hybrid setup scenarios (e.g., synchronization).
 
 📢 Let’s connect!
 
