@@ -1,12 +1,12 @@
-👋 Hello, I am Klaus,
+Hello, I’m Klaus,
 
-I am working as an Technology Consultant at CGI in Germany focused on Identity- and Security topics with Microsoft Technology
+I’m a Microsoft Security MVP and currently working as a Technology Consultant at CGI in Germany, specializing in identity and security topics with Microsoft technologies.
 
-From time to time I work as an author for various publications or for other journalistic activities. Check my private tech blog (hosted here on GitHub Pages) for more details: https://nothingbutcloud.net
+From time to time, I also contribute as an author to various publications and engage in other journalistic activities. You can find more details on my private tech blog (hosted here on GitHub Pages): nothingbutcloud.net
 
-💬 You are welcome to ask me about Active Directory (MS Entra ID or On-Premises) or Zero Trust and Hybrid Setup Scenarios (e.g. synchronization)
+💬 Feel free to reach out if you have questions about Active Directory (Microsoft Entra ID or on-premises), Zero Trust, or hybrid setup scenarios (e.g., synchronization).
 
-### 📢 Let's get in touch
+📢 Let’s connect!
 
 <!--<a href="https://twitter.com/klabiers" target="_blank"><img src="https://img.shields.io/twitter/follow/klabiers?label=Follow" alt="Twitter"></a>
 -->
